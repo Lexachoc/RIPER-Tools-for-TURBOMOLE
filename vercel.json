@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "embed_streamlit_app.html" }
+  ]
+}
